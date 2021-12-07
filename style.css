@@ -1,0 +1,10 @@
+body {
+    display:grid;
+    height: 100vh;
+    padding: 1.5rem;
+    place-items: center;
+    width: 100vw;
+    font-size: 150px;
+  font-weight: 700;
+  color: darkgreen;
+}
